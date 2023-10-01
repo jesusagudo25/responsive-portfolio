@@ -1222,7 +1222,7 @@ img{
     }
 
     .services__container{
-        grid-template-columns: repeat(3, 218px);
+        grid-template-columns: repeat(2, 218px);
         justify-content: center;
     }
 
@@ -1240,6 +1240,10 @@ img{
 
     .portfolio__img{
         width: 320px;
+    }
+    
+    .img__filter{
+        filter: brightness(0.98);
     }
 
     .portfolio__content{
@@ -1305,7 +1309,7 @@ img{
     }
 
     .services__container{
-        grid-template-columns: repeat(3,238px);
+        grid-template-columns: repeat(2,238px);
     }
 
     .portfolio__content{
